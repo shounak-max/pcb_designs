@@ -1,2 +1,2 @@
 # paul_is_bad
-badmosh_paul_ka_repo
+badmosh_ka_repo
